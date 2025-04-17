@@ -1,6 +1,7 @@
 ## Logits DeConfusion with CLIP for Few-Shot Learning
 
-The code of "Logits DeConfusion with CLIP for Few-Shot Learning" (CVPR 2025)
+The code of "Logits DeConfusion with CLIP for Few-Shot Learning" (CVPR 2025), [paper from arxiv: https://arxiv.org/abs/2504.12104](https://arxiv.org/abs/2504.12104)
+
 
 ### Abstract
 
